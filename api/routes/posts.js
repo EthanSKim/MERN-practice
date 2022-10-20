@@ -96,6 +96,4 @@ router.get("/timeline/all", async (req,res) => {
     }
 })
 
-router.get()
-
 module.exports = router;
